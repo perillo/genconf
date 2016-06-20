@@ -1,8 +1,8 @@
-# genconf utility
+# genconf command
 
 [![GoDoc](https://godoc.org/github.com/perillo/genconf?status.svg)](http://godoc.org/github.com/perillo/genconf)
 
-genconf is a simple utility used to generate multiple configuration files from
+genconf is a simple command used to generate multiple configuration files from
 a template (in Go text/template syntax) and a data file (in JSON format).
 
 ## Usage
